@@ -1,0 +1,12 @@
+1. Create a repository in the github.
+2. Upload a text file in github repo.
+3. Create a new branch. 
+4. Login github from another account.
+5. Fork a repository from your new login.
+When you fork a repository, you will get repository branch or not?
+6. Change/add the text in line no 3 in your forked repo.
+7. Create a Pull request for merge from your another account.
+If you are not a colaborator then Can you merge it from another account?
+8. Go to your main account.
+9. Check Pull request.
+10. Do the needful to merge it.
