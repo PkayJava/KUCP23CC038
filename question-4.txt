@@ -10,3 +10,5 @@ If you are not a colaborator then Can you merge it from another account?
 8. Go to your main account.
 9. Check Pull request.
 10. Do the needful to merge it.
+
+New Changes
